@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+}
+
+a, img {
+    display: block;
+}
+
+span {
+    color: brown;
+}
+
+img {
+    width: 250px;
+}
+
+header, footer {
+    background-color: brown;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+header a {
+    color: white;
+    display: inline;
+}
+
+.news {
+    margin-left: 30px;
+}
+
+footer a {
+    color: white;
+    display: inline;
+}
